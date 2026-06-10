@@ -19,7 +19,7 @@ Para executar o programa é necessário:
 
 Para mais informações sobre Python:
 
-https://docs.python.org/3/
+[Documentação Oficial do Python](https://docs.python.org/3/)
 
 ---
 
